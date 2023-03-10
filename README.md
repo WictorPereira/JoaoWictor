@@ -1,4 +1,4 @@
-# OLA!Eu souJoaoWictor
+# Ola!Eu sou Joao Wictor
 
 - 👨‍🎓 Atualmente estou na faculdade Cursando GTI
 - 🛠  Se especializando com HTML e CSS
