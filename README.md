@@ -9,7 +9,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WictorPereira&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WictorPereira&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WictorPereira&hide_progress=true)
 
 
 <div style="display: inline_block"><br>
